@@ -30,7 +30,7 @@ d.)Colour your visual.
 
 
 
-Project-1 : Create Story
+Project-2 : Create Story
 
 Link: 
 
