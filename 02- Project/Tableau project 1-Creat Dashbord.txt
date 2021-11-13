@@ -1,0 +1,34 @@
+Project 1 : Create Dashboard and save to tableau public
+
+Link:
+
+https://public.tableau.com/app/profile/priyanka.raigare/viz/TABLEAU_PROJECT-1-CreateDashboard/Dashboard1
+
+Scenarios:
+
+1.Connect the sample superstore dataset to Tableau and select the “Order” sheet.
+
+2.Create an area chart in Tableau for Sales.
+a.)Create an area chart to show sales year wise and month wise.
+b.)Apply filter to order date field and show it for all.
+c.)Rename it as 'Sales Area Chart'.
+d.)Colour your visual.
+
+3.Create an area chart in Tableau for Profit.
+a.)Create an area chart to show profit year wise and month wise.
+b.)Apply filter to order date field and show it for all.
+c.)Rename it as 'Profit Area Chart'.
+d.)Colour your visual.
+
+4. Create a Dashboard in Tableau and present both the sheets(Sales area chart & Profit area chart).
+5. Remove one of the 'order of date' filter to vacate the space.
+6. Make the slider for 'order of date' filter.
+7. Make the slider applicable for both the visual.
+8. Resize your dashboard to 1200 X 750 and rename your dashboard.
+9. Make the dashboard interactive in such a way that when profit area chart is clicked then sales area chart should also update accordingly.
+10. Publish your dashboard and share the link.
+
+
+
+
+
